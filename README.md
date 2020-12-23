@@ -1,5 +1,7 @@
 **Bütün haklar CD PROJECT RED'e aittir. Ödev amaçlı yapılmıştır.**
 
+https://emreatas.github.io/web-programlama-odev/
+
 # web-programlama-odev
 Web ödevi
 # en.cdprojektred.com/ sitesinin frontend birebir yeniden tasarımı 
